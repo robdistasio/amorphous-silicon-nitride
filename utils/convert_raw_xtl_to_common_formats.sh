@@ -1,5 +1,5 @@
 #!/bin/bash
-ROOT_d=$PWD
+ROOT_d=`realpath ..`
 conv_f=$ROOT_d/utils/xtl2converter.sh
 XTL_d=$ROOT_d/a-SiNx-xtl/
 for fmt in pdb cif aims
