@@ -8,3 +8,5 @@ This data set has several available formats converted from the [a-SiNx-xtl](http
 including [pdb](https://github.com/robdistasio/amorphous-silicon-nitride/tree/main/a-SiNx-pdb),
 [cif](https://github.com/robdistasio/amorphous-silicon-nitride/tree/main/a-SiNx-cif), and
 [fhi-aims](https://github.com/robdistasio/amorphous-silicon-nitride/tree/main/a-SiNx-aims).
+
+Other format can also be generated (using `octave` and `openbabel`) see [amorphous-silicon-nitride/utils/convert_raw_xtl_to_common_formats.sh](https://github.com/robdistasio/amorphous-silicon-nitride/blob/main/utils/convert_raw_xtl_to_common_formats.sh).
